@@ -206,10 +206,19 @@ main
 .resume-container
 {
     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 71px;
 }
 
 .resume-title
 {
     font-size:30px;
     font-weight:800;
+}
+
+.btn-download-cv
+{
+    margin-left:500px;
+    margin-top: 50px;
 }
