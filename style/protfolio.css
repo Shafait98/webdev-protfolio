@@ -222,3 +222,11 @@ main
     margin-left:500px;
     margin-top: 50px;
 }
+
+/* footer style */
+
+footer
+{
+    padding: 130px 230px;
+    display: flex;
+}
