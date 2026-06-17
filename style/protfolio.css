@@ -249,3 +249,41 @@ footer input[type="text"], footer input[type="email"], footer textarea
     margin-bottom: 24px;
     border: none;
 }
+
+@media screen and (max-width:576px) {
+
+    .skills-container 
+    {
+        flex-direction: column;
+        gap: .1px;
+        
+    }
+
+
+    
+}
+
+.hide 
+{
+    display: none;
+}
+
+/* @media screen and (max-width:576px) {
+
+    main
+    {
+         max-width: 240px;
+        margin: 0 auto;
+    }
+
+    .head-section
+{
+    background-image: url('../images/developer.png'), url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+    max-width: 240px;
+    max-height: 837px;
+}
+
+    
+} */
