@@ -268,6 +268,12 @@ footer input[type="text"], footer input[type="email"], footer textarea
     width: 100%;
 }
 
+.btn-download-cv
+{
+    margin-left:5px;
+    margin-top: 10px;
+}
+
 footer input[type="text"], footer input[type="email"], footer textarea 
 {
     width: calc(100% - 40px);
