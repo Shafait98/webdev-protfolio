@@ -5,7 +5,7 @@ A responsive portfolio website showcasing my web development projects, skills, a
 ---
 
 ## 🚀 Live Demo
-👉 [View Portfolio Website](https://shafait98.github.io/g3-architects-website)
+👉 [View Portfolio Website](https://shafait98.github.io/webdev-protfolio/)
 
 ---
 
